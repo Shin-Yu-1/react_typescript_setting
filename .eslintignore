@@ -1,5 +1,3 @@
-/node_modules/
-/coverage/
-/dist/
-.parcel-cache
-*.d.ts
+.eslintrc.cjs
+jest.config.ts
+jest.setup.ts
